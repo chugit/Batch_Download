@@ -129,7 +129,7 @@ if failed_contents:
 
 文献下载未成功的，可重复上述过程多下载几次。实在无法下载的，说明 Sci-Hub 数据库暂不包含此文献。可考虑采用其它方式进行文献下载（如利用第三方软件进行文献批量下载）。
 
-# 利用 Python 实现文献的批量下载
+# 利用 SciHub Plus 实现文献的批量下载
 
 利用第三方软件 [SciHub Plus](https://www.scigreat.com/140020.html "SciHub Plus 软件") 批量下载文献。该软件具有多个文献来源数据库：SciHub、Libgen、UnpayWall、Open Access Button 等，可以下载的文献更多，但只是单线程下载，速度慢。
 
