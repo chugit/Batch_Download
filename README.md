@@ -16,7 +16,7 @@
 
 本方法要求文献 DOI 能够在 Sci-Hub 数据库检索得到。
 
--   手动设置工作目录并读取 DOI 文档。本文测试用的 *DOI_test.txt* 文件已上传至仓库。
+-   手动设置工作目录并读取 DOI 文档。本文测试用的 [*DOI_test.txt*](DOI_test.txt) 文件已上传至仓库。
 
 ```python
 import requests
